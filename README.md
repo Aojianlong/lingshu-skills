@@ -56,8 +56,17 @@ $lingshu-image-to-editable-pptx 转为可编辑 PPT
 
 运行需要 Python 3。第一次使用时，Codex 会自动在当前文件夹建虚拟环境并安装依赖（python-pptx、Pillow）。
 
-## 交流和更新
+## 关于龙（加我领更多原创 Skill）
 
-遇到问题或想要后续更新，微信扫码加我：
+我是龙，「灵枢」是我做 AI 内容的名字。生财有术传术师，做过生财有术第一期 YouTube Shorts 航海教练。
+
+现在主要分享 Codex、Claude Code 这类 AI 工具的真实用法，欢迎交流 AI 工具、Skill 和工作流的实践。
+
+想领取更多 Skill，可以找我领取我手搓的：
+
+- ✅ 图片转可编辑 PPT skill（就是这个仓库里这一个）
+- ✅ 之后新做的原创 skill，第一时间发给你
+
+也欢迎把你正在用的方法分享给我，一起交流、一起折腾 AI。加我时备注「PPT」。
 
 <img src="assets/wechat-qr.png" width="260" alt="微信二维码">
