@@ -1,0 +1,4 @@
+interface:
+  display_name: "lingshu-image-to-editable-pptx（灵枢·图片转可编辑PPT）"
+  short_description: "将流程图、图表表格、照片混排与中英文海报重建为原生可编辑PPTX"
+  default_prompt: "使用 $lingshu-image-to-editable-pptx 将图片重建为可编辑 PPTX，渲染对比并报告验收结果。"
