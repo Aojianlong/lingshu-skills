@@ -67,6 +67,6 @@ $lingshu-image-to-editable-pptx 转为可编辑 PPT
 - ✅ 图片转可编辑 PPT skill（就是这个仓库里这一个）
 - ✅ 之后新做的原创 skill，第一时间发给你
 
-也欢迎把你正在用的方法分享给我，一起交流、一起折腾 AI。加我时备注「PPT」。
+也欢迎把你正在用的方法分享给我，一起交流、一起折腾 AI。
 
 <img src="assets/wechat-qr.png" width="260" alt="微信二维码">
