@@ -73,4 +73,6 @@ $lingshu-image-to-editable-pptx 转为可编辑 PPT
 
 也欢迎把你正在用的方法分享给我，一起交流、一起折腾 AI。
 
-<img src="assets/wechat-qr.png" width="260" alt="微信二维码">
+QQ：2561610249（扫码或搜号添加）
+
+<img src="assets/qq-qr.png" width="260" alt="QQ 二维码">
